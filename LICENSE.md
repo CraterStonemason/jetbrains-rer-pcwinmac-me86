@@ -1,4 +1,4 @@
-# 
+# Turbo JetBrains Rider modelos para Mac OS | Exclusivo JetBrains Rider modelos para PC Windows. Com integração Git e visualização de respostas — otimizado para máximo desempenho em cada plataforma.
 
 
 
